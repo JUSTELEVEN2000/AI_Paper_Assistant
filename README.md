@@ -178,3 +178,19 @@ Multi-paper knowledge base
 Web paper search integration
 Agent-based workflow
 Better evaluation framework
+
+## Demo
+
+### User Interface
+
+![Menu](screenshots/menu.png)
+
+
+### Retrieval Result
+
+![Retrieval](screenshots/retrieval.png)
+
+
+### Generated Answer
+
+![Answer](screenshots/answer.png)
